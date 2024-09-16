@@ -1,0 +1,5 @@
+requests~=2.32.3
+spotipy~=2.24.0
+colorthief~=0.2.1
+pillow~=10.4.0
+Flask~=3.0.3
