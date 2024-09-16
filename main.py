@@ -19,9 +19,15 @@ spot = SpotifyOAuth(client_id="0268f4088917445cb0bc1039b15dd31b",
                     redirect_uri="http://localhost:8879/callback",
                     scope="user-library-read user-follow-read user-top-read user-read-private playlist-read-private user-read-playback-state user-follow-modify user-library-modify playlist-modify-public playlist-modify-private",
                     )
-
-f = open('token.bin', 'r')
-tok = f.read()
+try:
+    f = open('token.bin', 'r')
+    tok = f.read()
+except:
+    generator = open("token.bin", 'w+')
+    generator.write("")
+    generator.flush()
+    generator.close()
+    tok = ''
 at = spot.get_access_token(tok)
 spc = spotipy.Spotify(auth=at["access_token"])
 playing_volume = 100
