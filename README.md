@@ -19,11 +19,11 @@
 
 # <left><a>📷<a style="font-size:15px;">⭐ 展示部分 | Screenshots</a></left>
 
-<img src="/README/materials/0.png" alt="Bear-Z - Red & White (Pt.II)" width="400" />
-<img src="/README/materials/1.png" alt="Bear-Z - Red & White (Pt.II)" width=400" />
+<img src="https://ghproxy.net/https://github.com/WerewolfwolfyXD/WerzSpotifyNotificator/blob/main/README/materials/0.png" alt="Bear-Z - Red & White (Pt.II) Notification" width="400" />
+<img src="https://ghproxy.net/https://github.com/WerewolfwolfyXD/WerzSpotifyNotificator/blob/main/README/materials/1.png" alt="CarbondoXD - Fantasy Notification" width=400" />
 <br>
-<img src="/README/materials/2.png" alt="Bear-Z - Red & White (Pt.II)" width="945" /><br>
-<img src="/README/materials/3.png" alt="Bear-Z - Red & White (Pt.II)" width="945" /><br>
+<img src="https://ghproxy.net/https://github.com/WerewolfwolfyXD/WerzSpotifyNotificator/blob/main/README/materials/2.png" alt="Bear-Z - Red & White (Pt.II) Desktoply" width="945" /><br>
+<img src="https://ghproxy.net/https://github.com/WerewolfwolfyXD/WerzSpotifyNotificator/blob/main/README/materials/3.png" alt="CarbondoXD - Fantasy Desktoply" width="945" /><br>
 
 <!-- TODO PART -->
 # <left><a>✔<a style="font-size:18px">TODO</a>
