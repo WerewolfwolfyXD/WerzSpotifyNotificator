@@ -88,7 +88,7 @@ python main.py
 python main.py
 # After run the second time, you needn't to run 2 times again!
 # Then, here's a window of the main program, enjoy it!
-``` 
+```
 
 
 ## 🐧(Linux/GNU Script | *.sh)
