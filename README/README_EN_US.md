@@ -5,7 +5,7 @@
   	<p align="center" style="font-size:20px">
     		An inexplicable <font color="green">Spotify</font> Notificator
     <br />
-	<div class="nextline" style="font-size:15px;"><a href="https://github.com/WerewolfwolfyXD/WerzSpotifyNotificator/release">📦️发行</a> | <a href="https://github.com/WerewolfwolfyXD/WerzSpotifyNotificator/blob/main/README.md">🌎主页</a></div>
+	<div class="nextline" style="font-size:15px;"><a href="https://github.com/WerewolfwolfyXD/WerzSpotifyNotificator/release">📦Release</a> | <a href="https://github.com/WerewolfwolfyXD/WerzSpotifyNotificator/blob/main/README.md">🌎Main Page</a></div>
     <br />
     <br />
   </p>
@@ -30,7 +30,7 @@
 Now in [Projects](https://github.com/WerewolfwolfyXD/WerzSpotifyNotificator/projects)
 
 <!-- Description Part -->
-# <left>📕<a style="font-size:18px;">介绍</a></left>
+# <left>📕<a style="font-size:18px;">Introduction</a></left>
 #### WerzSpotifyNotificator is a current playtrack messager tools based in Spotify Developer Web API, My code is bad, if you'd like to edit, just do it.
 #### <h6>Debug Environment: Windows Subsystem Linux 2 (kali-linux) in Windows 11 22H2</h6>
 
