@@ -111,6 +111,6 @@ python main.py
 ```
 
 # Thirdparties using：
-[Spotipy Github](https://github.com/spotipy-dev/spotipy)
+[Spotipy GitHub](https://github.com/spotipy-dev/spotipy)
 
 [MiSans Font](https://hyperos.mi.com/font)

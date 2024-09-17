@@ -111,6 +111,6 @@ python main.py
 ```
 
 # 第三方使用：
-[Spotipy Github](https://github.com/spotipy-dev/spotipy)
+[Spotipy GitHub](https://github.com/spotipy-dev/spotipy)
 
 [MiSans Font](https://hyperos.mi.com/font)
