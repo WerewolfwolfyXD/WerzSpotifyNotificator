@@ -109,3 +109,8 @@ python main.py
 # 在第一次运行成功来到第二次运行后，之后的每次启动只需要启动一次！
 # 然后弹出的Tkinter窗口就是程式主界面，享用吧！😋
 ```
+
+# 第三方使用：
+[Spotipy Github](https://github.com/spotipy-dev/spotipy)
+
+[MiSans Font](https://hyperos.mi.com/font)
